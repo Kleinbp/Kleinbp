@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Philip
-- 👀 I’m interested in idk, stuff that I don't know I guess
-- 🌱 I’m currently learning everything, because I know nothing
-- 💞️ I’m looking to collaborate on standardization of Blue Team processes, toolsets, etc.
+- 👀 I’m interested in blue and red team operations and everything infosec.
+- 🌱 I’m currently learning about Cloud technologies and Cyber Threat Intelligence.
+- 💞️ I’m looking to collaborate on standardizing Blue Team processes, toolsets, etc.
 - 📫 How to reach me https://www.reddit.com/user/Ice_ber_g
 
 <!---
